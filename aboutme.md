@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Front Yard Cuts
+subtitle: We are teenage brothers who enjoy working outside and saving money for our future. We make it easy just sign-up and see. Best of all, our mom does all the scheduling!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Brenden. I have the following qualities:
 
 - I rock a great mustache
 - I'm extremely loyal to my family
 
-What else do you need?
 
 ### My story
 
