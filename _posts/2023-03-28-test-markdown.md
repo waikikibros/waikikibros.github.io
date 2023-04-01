@@ -6,7 +6,7 @@ gh-repo: daattali/beautiful-jekyll
 comments: true
 ---
 
-This was the first yard we cut and hopefully not the last. We are to young to drive so we have to either bike the equipment or walk it.
+This was the first yard we cut and hopefully not the last. We are too young to drive, so we have to be able to walk to your home with the equipment.
 
 Before Picture
 
