@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First Cut
-subtitle: Before 
+subtitle: Before and After Pictures 
 gh-repo: daattali/beautiful-jekyll
 comments: true
 ---
