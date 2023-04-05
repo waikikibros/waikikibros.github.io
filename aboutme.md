@@ -2,6 +2,8 @@
 layout: page
 title: WaikikiBros209 Front Yard Cuts
 subtitle: We are teenage brothers (14 & almost 13) who enjoy working outside and saving money for our future. We make it easy just sign-up and see. Best of all, our mom does all the scheduling!
+![IMG_0331_edited](https://user-images.githubusercontent.com/129482309/229956451-8c2ff908-ccfe-4da9-9a4d-0a6756b4166b.jpg)
+
 ---
 ## **Brenden**
 My name is Brenden and I was born in 2009. In 2011 I was diagnosed with a rare brain tumor. The following year the tumor was removed and I have been in remission for the last ten years. I am a cancer survior, who at times have difficulties learning things that may seem easy to the normal person. But I work hard and deep down I have a big heart and bigger smile.  
