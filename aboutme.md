@@ -2,7 +2,7 @@
 layout: page
 title: WaikikiBros209 Front Yard Cuts
 subtitle: We are teenage brothers who enjoy working outside and saving money for our future. We make it easy just sign-up and see. Best of all, our mom does all the scheduling!
-=======
+---
 
 ![IMG_0331_edited](https://user-images.githubusercontent.com/129482309/229956887-780a2f12-c06a-4572-a6e1-6c79d2a4e071.jpg)
 
