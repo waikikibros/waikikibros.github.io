@@ -10,11 +10,7 @@
 ############################
 
 # Name of website
-<<<<<<< HEAD
-title: WaikikiBros209 Front Yard Cuts
-=======
 title: WaikikiBros Front Yard Cuts
->>>>>>> d6b0427003367b43b92eb519b1c5736ab89c1c5a
 
 # Your name to show in the footer
 author: 1-209-604-7011
@@ -25,11 +21,6 @@ author: 1-209-604-7011
 
 navbar-links:
   About Us: "aboutme"
-<<<<<<< HEAD
-  Blog: "blog"
-
-=======
->>>>>>> d6b0427003367b43b92eb519b1c5736ab89c1c5a
 
 ################
 # --- Logo --- #
@@ -54,20 +45,6 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "waikikibros209@gmail.com"
-<<<<<<< HEAD
- # rss: true  # remove this line if you don't want to show an RSS link at the bottom
- # facebook: deanattali
- # github: daattali
- # twitter: daattali
- # patreon: DeanAttali
- # youtube: c/daattali
-#  medium: yourname
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-=======
   # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   # facebook: deanattali
   # github: daattali
@@ -80,7 +57,6 @@ social-network-links:
   #  xing: yourname
   #  stackoverflow: "3943160/daattali"
   #  snapchat: deanat78
->>>>>>> d6b0427003367b43b92eb519b1c5736ab89c1c5a
   instagram: "waikikibros209"
 #  spotify: yourname
 #  telephone: +12096047011
@@ -113,11 +89,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-<<<<<<< HEAD
-url-pretty: "https://waikikibros209.github.io"
-=======
 url-pretty: "https://waikikibros.github.io"
->>>>>>> d6b0427003367b43b92eb519b1c5736ab89c1c5a
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -286,11 +258,7 @@ defaults:
       type: "page"
     values:
       layout: "page"
-<<<<<<< HEAD
-      comments: true  # add comments to all blog posts
-=======
       comments: true # add comments to all blog posts
->>>>>>> d6b0427003367b43b92eb519b1c5736ab89c1c5a
       social-share: true # add social media sharing buttons to all blog posts
   - scope:
       path: "" # any file that's not a post will be a "page" layout by default
