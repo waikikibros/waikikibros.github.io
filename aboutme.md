@@ -11,7 +11,7 @@ subtitle: We are teenage brothers (14 & almost 13) who enjoy working outside and
 ![IMG_0331_edited](https://user-images.githubusercontent.com/129482309/229956887-780a2f12-c06a-4572-a6e1-6c79d2a4e071.jpg)
 
 ## **Brenden**
-My name is Brenden and I was born in 2009. In 2011 I was diagnosed with a rare brain tumor. The following year the tumor was removed and I have been in remission for the last ten years. I am a cancer survior, who at times have difficulties learning things that may seem easy to the normal person. But I work hard and deep down I have a big heart and bigger smile.  
+My name is Brenden and I was born in 2009. In 2011 I was diagnosed with a rare brain tumor. The following year the tumor was removed and I have been in remission for the last ten years. I am a cancer survior, who at times have difficulties learning things that may seem easy to the normal person. But I work hard and deep down I have a big heart and big smile.  
 
 Hobbies
 1. Trains
