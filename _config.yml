@@ -21,8 +21,7 @@ author: 1-209-604-7011
 
 navbar-links:
   About Us: "aboutme"
-  Scheduler: "schedule"
-  Reviews: "reviews"
+  Yelp: "reviews"
 
 ################
 # --- Logo --- #
