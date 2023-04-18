@@ -21,6 +21,8 @@ author: 1-209-604-7011
 
 navbar-links:
   About Us: "aboutme"
+  Scheduler: "scheduler"
+  Yelp: "yelp"
 
 ################
 # --- Logo --- #
@@ -50,7 +52,7 @@ social-network-links:
   # github: daattali
   # twitter: daattali
   # patreon: DeanAttali
-  # youtube: c/daattali
+   youtube: "@waikikibros209"
   #  medium: yourname
   #  reddit: yourname
   #  linkedin: daattali
