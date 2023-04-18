@@ -21,8 +21,6 @@ author: 1-209-604-7011
 
 navbar-links:
   About Us: "aboutme"
-  Scheduler: "scheduler"
-  Yelp: "yelp"
 
 ################
 # --- Logo --- #
@@ -59,7 +57,7 @@ social-network-links:
   #  xing: yourname
   #  stackoverflow: "3943160/daattali"
   #  snapchat: deanat78
-  instagram: "waikikibros209"
+  instagram: "https://www.youtube.com/@WaikikiBros209"
 #  spotify: yourname
 #  telephone: +12096047011
 #  steam: deanat78
