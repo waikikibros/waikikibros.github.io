@@ -1,1 +1,0 @@
-Check out our youtube video on the bottom of the page. I made one video of me and my Bro cutting a yard. Dad got fired from holding camera, we hired a tripod instead!
